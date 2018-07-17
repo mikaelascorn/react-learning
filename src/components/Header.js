@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = (props) => {
   return (
-    <header class="top">
+    <header className="top">
       <h1>Catch
         <span className="ofThe"> 
           <span className="of">of</span> 
